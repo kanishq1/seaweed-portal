@@ -121,521 +121,118 @@ export default function Home() {
 			<section id="about" className="s-about target-section">
 				<div className="row section-header bit-narrow" data-aos="fade-up">
 					<div className="col-full">
-						<h3 className="subhead">Who We Are</h3>
-						<h1 className="display-1">
-							We are Sublime, a design and branding agency with partners worldwide. We design thoughtful
-							digital experiences and beautiful brand aesthetics.
+						<h3 className="subhead">What is seaweed?</h3>
+						<h1 className="display-1 mb-20">
+							Seaweed farming or kelp farming is the practice of cultivating and harvesting seaweed. In
+							its simplest form, it consists of the management of naturally found batches. In its most
+							advanced form, it consists of fully controlling the life cycle of the algae.
 						</h1>
 					</div>
 				</div>{" "}
 				<div className="row bit-narrow" data-aos="fade-up">
 					<div className="col-full">
 						<p className="lead">
-							Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Donec rutrum congue leo
-							eget malesuada. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-							exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-							in reprehenderit in voluptate velit esse.
+							The main food species grown by aquaculture in Japan, China, and Korea include Gelidium,
+							Pterocladia, Porphyra, and Laminaria. Seaweed farming has frequently been developed as an
+							alternative to improve economic conditions and to reduce fishing pressure and overexploited
+							fisheries. Seaweeds have been harvested throughout the world as a food source and an export
+							commodity for the production of agar and carrageenan products.
 						</p>
 					</div>
-				</div>{" "}
+				</div>
+				<div className="row bit-narrow" data-aos="fade-up">
+					<div className="col-full">
+						<p className="lead">
+							Seaweeds are generally cultivated in lagoons or sheltered bays. Seaweeds obtain nutrients
+							directly from the seawater, and it is crucial to have currents that flush the site in which
+							the seaweeds are placed. Small cuttings are attached to a line with short lengths of string
+							(known as 'Tie Tie') at a density of five cuttings per metre of the line. In nature, these
+							seaweeds live attached to a solid substrate.
+						</p>
+					</div>
+				</div>
 				<div className="row bit-narrow">
+					<h1 className="md:pl-8">Techniques of Seaweed Culture</h1>
 					<div className="about-process process block-1-2 block-tab-full">
 						<div className="col-block item-process" data-aos="fade-up">
 							<div className="item-process__text">
-								<h4 className="item-title">Define</h4>
+								<h4 className="item-title">Off-bottom (post and line)</h4>
 								<p>
-									Quos dolores saepe mollitia deserunt accusamus autem reprehenderit. Voluptas facere
-									animi explicabo non quis magni recusandae. Numquam debitis pariatur omnis facere
-									unde. Laboriosam minus amet nesciunt est. Et saepe eos maxime tempore quasi deserunt
-									ab.
+									The general approach is to suspend a series of lines of 10m in length between two
+									posts, which are usually made of wood. This technique is best suited for lagoons,
+									where there is relatively shallow water at low tide and small-scale initiatives. The
+									lines are regularly checked and the seaweed harvested during the two spring tide
+									periods each month. The farmers can work on foot and is, therefore, a technique
+									particularly suited to women farmers. Following each harvest, the seaweed is dried
+									on land for a few days before the sale
 								</p>
 							</div>
 						</div>
 						<div className="col-block item-process" data-aos="fade-up">
 							<div className="item-process__text">
-								<h4 className="item-title">Design</h4>
+								<h4 className="item-title">Longlines</h4>
 								<p>
-									Quos dolores saepe mollitia deserunt accusamus autem reprehenderit. Voluptas facere
-									animi explicabo non quis magni recusandae. Numquam debitis pariatur omnis facere
-									unde. Laboriosam minus amet nesciunt est. Et saepe eos maxime tempore quasi deserunt
-									ab.
+									This technique involves using lines of up to 50m in length, anchored at each end,
+									and with floats attached every 10m or so to support the line. This technique is
+									usually employed in the water of between 4, and 10m and farmers require access to
+									some sort of boat to access the plots. However, due to the necessity of a boat, the
+									farmers can access the plots at all times, except for bad weather.
 								</p>
 							</div>
 						</div>
-						<div className="col-block item-process" data-aos="fade-up">
+						<div className="col-block item-process" data-aos="fade-up" style={{ width: "100%" }}>
 							<div className="item-process__text">
-								<h4 className="item-title">Build</h4>
+								<h4 className="item-title">Rock-based Farming for Spinosum</h4>
 								<p>
-									Quos dolores saepe mollitia deserunt accusamus autem reprehenderit. Voluptas facere
-									animi explicabo non quis magni recusandae. Numquam debitis pariatur omnis facere
-									unde. Laboriosam minus amet nesciunt est. Et saepe eos maxime tempore quasi deserunt
-									ab.
-								</p>
-							</div>
-						</div>
-						<div className="col-block item-process" data-aos="fade-up">
-							<div className="item-process__text">
-								<h4 className="item-title">Launch</h4>
-								<p>
-									Quos dolores saepe mollitia deserunt accusamus autem reprehenderit. Voluptas facere
-									animi explicabo non quis magni recusandae. Numquam debitis pariatur omnis facere
-									unde. Laboriosam minus amet nesciunt est. Et saepe eos maxime tempore quasi deserunt
-									ab.
+									With this technique, the harvesting of seaweed is done, at low tide and on foot, by
+									simply cutting away the new growth each cycle while leaving enough of the
+									'rootstock' for the process of growth to start over again. This technique avoids the
+									need to affix new cuttings after each harvest and represents a significant
+									labor-saving; for example, a farmer using the line-based techniques would require up
+									to 120,000 individual harvest manipulations per year to manage lines of just 3kms (=
+									15,000 different plants). This technique has apparent attractions, and an image
+									given by farmers using this technique in Zanzibar was like having an orchard of
+									mangoes that provide their fruit all year-round.
 								</p>
 							</div>
 						</div>
 					</div>{" "}
-					{/* end process */}
-				</div>{" "}
+				</div>
+				<div className="row bit-narrow">
+					<h1 className="pl-8">Types of relationships for business</h1>
+					<div className="about-process process block-1-2 block-tab-full">
+						<div className="col-block item-process" data-aos="fade-up">
+							<div className="item-process__text">
+								<h4 className="item-title">Buyers Farmers</h4>
+								<p>
+									The buyers provide the farmers with the raw materials for production, including the
+									lines, sometimes the posts, the boats, and the drying tables. They also link farmers
+									with technical support and provide supervision. All this support is provided under
+									contract with clear rules that help weed-out the less-motivated farmers and
+									reallocate support. Payments are made in cash at least twice monthly.
+								</p>
+							</div>
+						</div>
+						<div className="col-block item-process" data-aos="fade-up">
+							<div className="item-process__text">
+								<h4 className="item-title"> Farmers Buyers</h4>
+								<p>
+									Farmers must respect their contracts' exclusive nature, which requires the sale of
+									their seaweed to the contract partner only. It is also essential that the necessary
+									quality of dry seaweed is produced.
+								</p>
+							</div>
+						</div>
+					</div>{" "}
+				</div>
 			</section>
-			{/* end s-about */}
-			{/* services
-================================================== */}
-			<section id="services" className="s-services target-section darker">
-				<div className="row section-header bit-narrow" data-aos="fade-up">
-					<div className="col-full">
-						<h3 className="subhead">What we do</h3>
-						<h1 className="display-1">
-							We take pride in what we do. Our services are designed to help your business stand out and
-							turn your ideas into digital realities.
-						</h1>
-					</div>
-				</div>{" "}
-				{/* end section-header */}
-				<div className="row bit-narrow services block-1-2 block-tab-full">
-					<div className="col-block item-service" data-aos="fade-up">
-						<div className="item-service__icon">
-							<i className="icon-star" />
-						</div>
-						<div className="item-service__text">
-							<h3 className="item-title">Brand Identity</h3>
-							<p>
-								Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. Quo
-								delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque
-								veritatis. Sunt suscipit voluptas ipsa in tempora esse soluta sint.
-							</p>
-						</div>
-					</div>
-					<div className="col-block item-service" data-aos="fade-up">
-						<div className="item-service__icon">
-							<i className="icon-group" />
-						</div>
-						<div className="item-service__text">
-							<h3 className="item-title">Illustration</h3>
-							<p>
-								Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. Quo
-								delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque
-								veritatis. Sunt suscipit voluptas ipsa in tempora esse soluta sint.
-							</p>
-						</div>
-					</div>
-					<div className="col-block item-service" data-aos="fade-up">
-						<div className="item-service__icon">
-							<i className="icon-pie-chart" />
-						</div>
-						<div className="item-service__text">
-							<h3 className="item-title">Marketing</h3>
-							<p>
-								Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. Quo
-								delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque
-								veritatis. Sunt suscipit voluptas ipsa in tempora esse soluta sint.
-							</p>
-						</div>
-					</div>
-					<div className="col-block item-service" data-aos="fade-up">
-						<div className="item-service__icon">
-							<i className="icon-image" />
-						</div>
-						<div className="item-service__text">
-							<h3 className="item-title">Photography</h3>
-							<p>
-								Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. Quo
-								delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque
-								veritatis. Sunt suscipit voluptas ipsa in tempora esse soluta sint.
-							</p>
-						</div>
-					</div>
-					<div className="col-block item-service" data-aos="fade-up">
-						<div className="item-service__icon">
-							<i className="icon-cube" />
-						</div>
-						<div className="item-service__text">
-							<h3 className="item-title">UI/UX Design</h3>
-							<p>
-								Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. Quo
-								delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque
-								veritatis. Sunt suscipit voluptas ipsa in tempora esse soluta sint.
-							</p>
-						</div>
-					</div>
-					<div className="col-block item-service" data-aos="fade-up">
-						<div className="item-service__icon">
-							<i className="icon-lego-block" />
-						</div>
-						<div className="item-service__text">
-							<h3 className="item-title">Frontend Design</h3>
-							<p>
-								Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. Quo
-								delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque
-								veritatis. Sunt suscipit voluptas ipsa in tempora esse soluta sint.
-							</p>
-						</div>
-					</div>
-				</div>{" "}
-				{/* end services */}
-			</section>{" "}
-			{/* end s-services */}
-			{/* works
-================================================== */}
-			<section id="works" className="s-works target-section">
-				<div className="row section-header has-bottom-sep narrow target-section" data-aos="fade-up">
-					<div className="col-full">
-						<h3 className="subhead">Our Works</h3>
-						<h1 className="display-1">
-							We create brands, products, and experiences that people love. Check out our recent works.
-						</h1>
-					</div>
-				</div>{" "}
-				{/* end section-header */}
-				<div className="row masonry-wrap">
-					<div className="masonry">
-						<div className="masonry__brick" data-aos="fade-up">
-							<div className="item-folio">
-								<div className="item-folio__thumb">
-									<a
-										href="images/portfolio/gallery/g-shutterbug.jpg"
-										className="thumb-link"
-										title="Shutterbug"
-										data-size="1050x700"
-									>
-										<img
-											src="images/portfolio/lady-shutterbug.jpg"
-											srcSet="images/portfolio/lady-shutterbug.jpg 1x, images/portfolio/lady-shutterbug@2x.jpg 2x"
-											alt=""
-										/>
-									</a>
-								</div>
-								<div className="item-folio__text">
-									<h3 className="item-folio__title">Shutterbug</h3>
-									<p className="item-folio__cat">Branding</p>
-								</div>
-								<a
-									href="https://www.behance.net/"
-									className="item-folio__project-link"
-									title="Project link"
-								>
-									<i className="icon-link" />
-								</a>
-								<div className="item-folio__caption">
-									<p>
-										Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto
-										quo.Unde dolorem corrupti neque nisi.
-									</p>
-								</div>
-							</div>
-						</div>{" "}
-						{/* end masonry__brick */}
-						<div className="masonry__brick" data-aos="fade-up">
-							<div className="item-folio">
-								<div className="item-folio__thumb">
-									<a
-										href="images/portfolio/gallery/g-woodcraft.jpg"
-										className="thumb-link"
-										title="Woodcraft"
-										data-size="1050x700"
-									>
-										<img
-											src="images/portfolio/woodcraft.jpg"
-											srcSet="images/portfolio/woodcraft.jpg 1x, images/portfolio/woodcraft@2x.jpg 2x"
-											alt=""
-										/>
-									</a>
-								</div>
-								<div className="item-folio__text">
-									<h3 className="item-folio__title">Woodcraft</h3>
-									<p className="item-folio__cat">Web Design</p>
-								</div>
-								<a
-									href="https://www.behance.net/"
-									className="item-folio__project-link"
-									title="Project link"
-								>
-									<i className="icon-link" />
-								</a>
-								<div className="item-folio__caption">
-									<p>
-										Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto
-										quo.Unde dolorem corrupti neque nisi.
-									</p>
-								</div>
-							</div>
-						</div>{" "}
-						{/* end masonry__brick */}
-						<div className="masonry__brick" data-aos="fade-up">
-							<div className="item-folio">
-								<div className="item-folio__thumb">
-									<a
-										href="images/portfolio/gallery/g-beetle.jpg"
-										className="thumb-link"
-										title="The Beetle Car"
-										data-size="1050x700"
-									>
-										<img
-											src="images/portfolio/the-beetle.jpg"
-											srcSet="images/portfolio/the-beetle.jpg 1x, images/portfolio/the-beetle@2x.jpg 2x"
-											alt=""
-										/>
-									</a>
-								</div>
-								<div className="item-folio__text">
-									<h3 className="item-folio__title">The Beetle</h3>
-									<p className="item-folio__cat">Web Development</p>
-								</div>
-								<a
-									href="https://www.behance.net/"
-									className="item-folio__project-link"
-									title="Project link"
-								>
-									<i className="icon-link" />
-								</a>
-								<div className="item-folio__caption">
-									<p>
-										Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto
-										quo.Unde dolorem corrupti neque nisi.
-									</p>
-								</div>
-							</div>
-						</div>{" "}
-						{/* end masonry__brick */}
-						<div className="masonry__brick" data-aos="fade-up">
-							<div className="item-folio">
-								<div className="item-folio__thumb">
-									<a
-										href="images/portfolio/gallery/g-salad.jpg"
-										className="thumb-link"
-										title="Grow Green"
-										data-size="1050x700"
-									>
-										<img
-											src="images/portfolio/salad.jpg"
-											srcSet="images/portfolio/salad.jpg 1x, images/portfolio/salad@2x.jpg 2x"
-											alt=""
-										/>
-									</a>
-								</div>
-								<div className="item-folio__text">
-									<h3 className="item-folio__title">Salad</h3>
-									<p className="item-folio__cat">Branding</p>
-								</div>
-								<a
-									href="https://www.behance.net/"
-									className="item-folio__project-link"
-									title="Project link"
-								>
-									<i className="icon-link" />
-								</a>
-								<div className="item-folio__caption">
-									<p>
-										Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto
-										quo.Unde dolorem corrupti neque nisi.
-									</p>
-								</div>
-							</div>
-						</div>{" "}
-						{/* end masonry__brick */}
-						<div className="masonry__brick" data-aos="fade-up">
-							<div className="item-folio">
-								<div className="item-folio__thumb">
-									<a
-										href="images/portfolio/gallery/g-lamp.jpg"
-										className="thumb-link"
-										title="Guitarist"
-										data-size="1050x700"
-									>
-										<img
-											src="images/portfolio/lamp.jpg"
-											srcSet="images/portfolio/lamp.jpg 1x, images/portfolio/lamp@2x.jpg 2x"
-											alt=""
-										/>
-									</a>
-								</div>
-								<div className="item-folio__text">
-									<h3 className="item-folio__title">Lamp</h3>
-									<p className="item-folio__cat">Web Design</p>
-								</div>
-								<a
-									href="https://www.behance.net/"
-									className="item-folio__project-link"
-									title="Project link"
-								>
-									<i className="icon-link" />
-								</a>
-								<div className="item-folio__caption">
-									<p>
-										Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto
-										quo.Unde dolorem corrupti neque nisi.
-									</p>
-								</div>
-							</div>
-						</div>{" "}
-						{/* end masonry__brick */}
-						<div className="masonry__brick" data-aos="fade-up">
-							<div className="item-folio">
-								<div className="item-folio__thumb">
-									<a
-										href="images/portfolio/gallery/g-fuji.jpg"
-										className="thumb-link"
-										title="Palmeira"
-										data-size="1050x700"
-									>
-										<img
-											src="images/portfolio/fuji.jpg"
-											srcSet="images/portfolio/fuji.jpg 1x, images/portfolio/fuji@2x.jpg 2x"
-											alt=""
-										/>
-									</a>
-								</div>
-								<div className="item-folio__text">
-									<h3 className="item-folio__title">Fuji</h3>
-									<p className="item-folio__cat">Web Design</p>
-								</div>
-								<a
-									href="https://www.behance.net/"
-									className="item-folio__project-link"
-									title="Project link"
-								>
-									<i className="icon-link" />
-								</a>
-								<div className="item-folio__caption">
-									<p>
-										Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto
-										quo.Unde dolorem corrupti neque nisi.
-									</p>
-								</div>
-							</div>
-						</div>{" "}
-						{/* end masonry__brick */}
-					</div>{" "}
-					{/* end masonry */}
-				</div>{" "}
-				{/* end masonry-wrap */}
-			</section>{" "}
-			{/* end s-works */}
-			{/* clients
-================================================== */}
-			<section id="clients" className="s-clients target-section darker">
-				<div className="grid-overlay">
-					<div />
-				</div>
-				<div className="row section-header text-center narrow" data-aos="fade-up">
-					<div className="col-full">
-						<h3 className="subhead">Our Clients</h3>
-						<h1 className="display-1">Who we have work with</h1>
-					</div>
-				</div>{" "}
-				{/* end section-header */}
-				<div className="row clients-wrap" data-aos="fade-up">
-					<div className="col-twelve">
-						<ul className="clients">
-							<li>
-								<a href="#0">Uber</a>
-							</li>
-							<li>
-								<a href="#0">Spotify</a>
-							</li>
-							<li>
-								<a href="#0">Grab</a>
-							</li>
-							<li>
-								<a href="#0">Dropbox</a>
-							</li>
-							<li>
-								<a href="#0">IBM</a>
-							</li>
-							<li>
-								<a href="#0">Microsoft</a>
-							</li>
-							<li>
-								<a href="#0">Xiaomi</a>
-							</li>
-							<li>
-								<a href="#0">Adidas</a>
-							</li>
-							<li>
-								<a href="#0">Mozilla</a>
-							</li>
-							<li>
-								<a href="#0">Apple</a>
-							</li>
-							<li>
-								<a href="#0">Google</a>
-							</li>
-							<li>
-								<a href="#0">Asus</a>
-							</li>
-						</ul>
-					</div>
-				</div>
-			</section>{" "}
-			{/* end s-clients */}
-			{/* testimonies
-================================================== */}
-			<section className="s-testimonials">
-				<div className="testimonials__icon" data-aos="fade-up" />
-				<div className="row testimonials narrow">
-					<div className="col-full testimonials__slider" data-aos="fade-up">
-						<div className="testimonials__slide">
-							<p>
-								Qui ipsam temporibus quisquam vel. Maiores eos cumque distinctio nam accusantium ipsum.
-								Laudantium quia consequatur molestias delectus culpa facere hic dolores aperiam.
-								Accusantium quos qui praesentium corpori.
-							</p>
-							<div className="testimonials__author">
-								Tim Cook
-								<span>CEO, Apple</span>
-							</div>
-						</div>{" "}
-						{/* end testimonials__slide */}
-						<div className="testimonials__slide">
-							<p>
-								Excepturi nam cupiditate culpa doloremque deleniti repellat. Veniam quos repellat
-								voluptas animi adipisci. Nisi eaque consequatur. Quasi voluptas eius distinctio. Atque
-								eos maxime. Qui ipsam temporibus quisquam vel.
-							</p>
-							<div className="testimonials__author">
-								Sundar Pichai
-								<span>CEO, Google</span>
-							</div>
-						</div>{" "}
-						{/* end testimonials__slide */}
-						<div className="testimonials__slide">
-							<p>
-								Repellat dignissimos libero. Qui sed at corrupti expedita voluptas odit. Nihil ea quia
-								nesciunt. Ducimus aut sed ipsam. Autem eaque officia cum exercitationem sunt voluptatum
-								accusamus. Quasi voluptas eius distinctio.
-							</p>
-							<div className="testimonials__author">
-								Satya Nadella
-								<span>CEO, Microsoft</span>
-							</div>
-						</div>{" "}
-						{/* end testimonials__slide */}
-					</div>{" "}
-					{/* end testimonials__slider */}
-				</div>{" "}
-				{/* end testimonials */}
-			</section>{" "}
-			{/* end s-testimonials */}
-			{/* contact
-================================================== */}
 			<section id="contact" className="s-contact target-section">
 				<div className="grid-overlay">
 					<div />
 				</div>
 				<div className="row section-header narrow" data-aos="fade-up">
 					<div className="col-full">
-						<h3 className="subhead">Keep In Touch</h3>
+						<h3 className="subhead">Enactus BITS Goa</h3>
 						<h1 className="display-1">
 							Feel free to contact us for any <br /> project idea or collaboration
 						</h1>
@@ -645,13 +242,13 @@ export default function Home() {
 				<div className="row contact-main" data-aos="fade-up">
 					<div className="col-full">
 						<p className="contact-email">
-							<a href="mailto:#0">sayhello@sublime.com</a>
+							<a href="mailto:#enactusbitsgoa@gmail.com">enactusbitsgoa@gmail.com</a>
 						</p>
-						<p className="contact-address">
+						{/* <p className="contact-address">
 							1600 Amphitheatre Parkway <br />
 							Mountain View, CA, 94043 US
 						</p>
-						<p className="contact-numbers">+1 (917) 123 456 &nbsp; +1 (917) 333 987</p>
+						<p className="contact-numbers">+1 (917) 123 456 &nbsp; +1 (917) 333 987</p> */}
 						<ul className="contact-social">
 							<li>
 								<a href="#0">
@@ -670,14 +267,14 @@ export default function Home() {
 							</li>
 							<li>
 								<a href="#0">
-									<i className="fab fa-behance" />
+									<i className="fa fa-globe" aria-hidden="true"></i>
 								</a>
 							</li>
-							<li>
+							{/* <li>
 								<a href="#0">
 									<i className="fab fa-dribbble" />
 								</a>
-							</li>
+							</li> */}
 						</ul>
 					</div>
 				</div>
@@ -690,7 +287,10 @@ export default function Home() {
 					<div className="col-full ss-copyright">
 						<span>© Copyright Enactus </span>
 						<span>
-							Developed by <a href="https://www.styleshout.com/">kanishq</a>
+							Developed by{" "}
+							<a target="_blank" href="https://www.linkedin.com/in/kanishqkhandelwal/">
+								Kanishq
+							</a>
 						</span>
 					</div>
 				</div>

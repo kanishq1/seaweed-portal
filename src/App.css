@@ -14,3 +14,12 @@ body {
 .explore-down:hover {
 	color: #fff;
 }
+.bg-dark-green {
+	background-color: #0e2222;
+}
+.color-dark-green {
+	color: #0e2222;
+}
+.bg-light-green {
+	background-color: #7f8d45 !important;
+}

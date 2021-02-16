@@ -26,28 +26,28 @@ export default function Menu(props) {
 					<div className="header-nav__content">
 						<ul className="header-nav__list">
 							<li>
-								<a className="smoothscroll" href="/" title="home">
+								<a href="/" title="home">
 									Home
 								</a>
 							</li>
 							<li>
-								<a className="smoothscroll" href="/sivar" title="sivar">
+								<a href="/sivar" title="sivar">
 									Project Sivar
 								</a>
 							</li>
 							<li>
-								<a className="smoothscroll" href="/achain" title="achain">
+								<a href="/achain" title="achain">
 									Project Achain
 								</a>
 							</li>
 							<li>
-								<a className="smoothscroll" href="#works" title="works">
-									Works
+								<a href="/seaweeds" title="Different Seaweeds">
+									Seaweeds
 								</a>
 							</li>
 							<li>
-								<a className="smoothscroll" href="#contact" title="contact">
-									Contact
+								<a href="/faq" title="Faq">
+									FAQs
 								</a>
 							</li>
 						</ul>

@@ -1433,7 +1433,7 @@ body.menu-is-open {
 .display-1 {
 	font-family: "Montserrat", sans-serif;
 	font-weight: 600;
-	font-size: 4.6rem;
+	font-size: 3rem;
 	line-height: 1.5;
 	letter-spacing: -0.03rem;
 	margin-top: 0;
@@ -3505,7 +3505,7 @@ html.no-csstransitions .home-content__main {
 .s-contact {
 	padding-top: 16.2rem;
 	padding-bottom: 21rem;
-	background-color: #5e3080;
+	background-color: #7f8d45;
 	color: rgba(255, 255, 255, 0.6);
 	text-align: center;
 	position: relative;
@@ -3528,7 +3528,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .s-contact .subhead {
-	color: #2a1538;
+	color: #0e2222;
 }
 
 .s-contact .section-header,
@@ -3715,7 +3715,7 @@ footer {
 	padding-top: 9rem;
 	padding-bottom: 6rem;
 	color: rgba(255, 255, 255, 0.6);
-	background-color: #5e3080;
+	background-color: #7f8d45;
 	border-top: 1px solid rgba(255, 255, 255, 0.1);
 	text-align: center;
 	position: relative;
@@ -3746,7 +3746,7 @@ footer a {
 
 .ss-go-top a {
 	color: #ffffff;
-	background-color: #351b48;
+	background-color: #0c222286;
 	text-align: center;
 	font-family: "Montserrat", sans-serif;
 	font-weight: 700;
@@ -3785,7 +3785,7 @@ footer a {
 
 .ss-go-top a:hover,
 .ss-go-top a:focus {
-	background-color: #2d173d;
+	background-color: #0c2222;
 }
 
 /* ------------------------------------------------------------------- 
